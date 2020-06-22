@@ -1,0 +1,6 @@
+version: 1.0.{build}
+image: Ubuntu
+environment:
+  token: ce57966891163088523747a16b490417aee215d6
+build:
+  verbosity: minimal
